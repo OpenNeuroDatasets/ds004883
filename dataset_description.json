@@ -1,7 +1,8 @@
 {
     "Name": "Registerd Report of ERN During Three Versions of a Flanker Task",
     "ReferencesAndLinks": [
-        "https://osf.io/qt2zh/"
+        "https://osf.io/qt2zh/",
+        "https://osf.io/preprints/psyarxiv/a3s42"
     ],
     "BIDSVersion": "v1.8.0",
     "License": "CC0",
